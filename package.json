@@ -10,11 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/PEOL0/SIDH.git"
   },
-  "author": "",
-  "license": "Copyright (C) 2021 Peter Lindvall",
+  "author": "Peter Lindvall",
+  "license": "CC-BY-NC-SA-4.0",
   "bugs": {
     "url": "https://github.com/PEOL0/SIDH/issues"
   },
-  "homepage": "https://github.com/PEOL0/SIDH#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/PEOL0/SIDH#readme"
 }
