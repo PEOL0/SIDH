@@ -1,0 +1,20 @@
+{
+  "name": "sidh",
+  "version": "1.0.0",
+  "description": "SIDH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PEOL0/SIDH.git"
+  },
+  "author": "",
+  "license": "Copyright (C) 2021 Peter Lindvall",
+  "bugs": {
+    "url": "https://github.com/PEOL0/SIDH/issues"
+  },
+  "homepage": "https://github.com/PEOL0/SIDH#readme",
+  "devDependencies": {}
+}

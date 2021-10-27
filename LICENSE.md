@@ -1,2 +1,2 @@
 
-Copyright (C) 2021 Peter
+Copyright (C) 2021 Peter Lindvall
