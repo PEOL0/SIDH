@@ -1,7 +1,33 @@
-html {
-    background-color: black;
+body {
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+nav {
+    background: linear-gradient(
+        270deg,
+        rgba(225, 227, 242, 1) 50%,
+        rgba(157, 160, 177, 1) 100%
+    );
 }
 .navLink a {
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-decoration: none;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    font-size: 3rem;
+    margin: 1rem;
+    margin-top: 0rem;
+}
+.background {
+    width: 100%;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    z-index: -1;
 }
