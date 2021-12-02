@@ -2,6 +2,10 @@ body {
     background-color: transparent;
     padding: 0;
     margin: 0;
+    background-image: url("src/images/jean-philippe-delberghe-75xPHEQBmvA-unsplash.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 nav {
     background: linear-gradient(
